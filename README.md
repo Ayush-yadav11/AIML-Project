@@ -7,23 +7,8 @@ Welcome to the **AIML Projects Repository**! This repository contains a collecti
 - [ Projects Overview](#projects-overview)
 - [ Tech Stack](#tech-stack)
 - [ Getting Started](#getting-started)
-- [ Project Details](#project-details)
-- [ Future Work](#future-work)
 - [ Contributing](#contributing)
 - [ License](#license)
-
----
-
-##  Projects Overview
-
-| Project Name                 | Description                                                 | Algorithm(s) Used        |
-|-----------------------------|-------------------------------------------------------------|--------------------------|
-| Rock vs Mine Classification | Classify sonar signals as rocks or mines                   | Logistic Regression      |
-| Iris Flower Classification  | Predict species of iris flowers from features              | KNN, SVM, Decision Tree  |
-| Titanic Survival Prediction | Predict survival on the Titanic dataset                    | Logistic Regression      |
-| MNIST Digit Recognition     | Handwritten digit classification                           | Neural Networks, CNN     |
-| Spam Email Detection        | Classify emails as spam or not                             | Naive Bayes              |
-| House Price Prediction      | Predict housing prices based on features                   | Linear Regression        |
 
 ---
 
